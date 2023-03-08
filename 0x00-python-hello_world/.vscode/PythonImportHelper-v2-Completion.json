@@ -1,0 +1,128 @@
+[
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "this",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "this",
+        "description": "this",
+        "detail": "this",
+        "documentation": {}
+    },
+    {
+        "label": "magic_calculation",
+        "kind": 2,
+        "importPath": "102-magic_calculation",
+        "description": "102-magic_calculation",
+        "peekOfCode": "def magic_calculation(a, b):\n    return (98 + (a ** b))",
+        "detail": "102-magic_calculation",
+        "documentation": {}
+    },
+    {
+        "label": "number",
+        "kind": 5,
+        "importPath": "3-print_number",
+        "description": "3-print_number",
+        "peekOfCode": "number = 98\nprint(f\"{number:d} Battery street\")",
+        "detail": "3-print_number",
+        "documentation": {}
+    },
+    {
+        "label": "number",
+        "kind": 5,
+        "importPath": "4-print_float",
+        "description": "4-print_float",
+        "peekOfCode": "number = 3.14159\nprint(f\"Float: {number:.2f}\")",
+        "detail": "4-print_float",
+        "documentation": {}
+    },
+    {
+        "label": "str",
+        "kind": 5,
+        "importPath": "5-print_string",
+        "description": "5-print_string",
+        "peekOfCode": "str = \"Holberton School\"\nprint(3 * str)\nprint(str[:9])",
+        "detail": "5-print_string",
+        "documentation": {}
+    },
+    {
+        "label": "str1",
+        "kind": 5,
+        "importPath": "6-concat",
+        "description": "6-concat",
+        "peekOfCode": "str1 = \"Holberton\"\nstr2 = \"School\"\nstr1 += (\" \" + str2)\nprint(\"Welcome to {}!\".format(str1))",
+        "detail": "6-concat",
+        "documentation": {}
+    },
+    {
+        "label": "str2",
+        "kind": 5,
+        "importPath": "6-concat",
+        "description": "6-concat",
+        "peekOfCode": "str2 = \"School\"\nstr1 += (\" \" + str2)\nprint(\"Welcome to {}!\".format(str1))",
+        "detail": "6-concat",
+        "documentation": {}
+    },
+    {
+        "label": "word",
+        "kind": 5,
+        "importPath": "7-edges",
+        "description": "7-edges",
+        "peekOfCode": "word = \"Holberton\"\nword_first_3 = word[:3]\nword_last_2 = word[-2:]\nmiddle_word = word[1:-1]\nprint(\"First 3 letters: {}\".format(word_first_3))\nprint(\"Last 2 letters: {}\".format(word_last_2))\nprint(\"Middle word: {}\".format(middle_word))",
+        "detail": "7-edges",
+        "documentation": {}
+    },
+    {
+        "label": "word_first_3",
+        "kind": 5,
+        "importPath": "7-edges",
+        "description": "7-edges",
+        "peekOfCode": "word_first_3 = word[:3]\nword_last_2 = word[-2:]\nmiddle_word = word[1:-1]\nprint(\"First 3 letters: {}\".format(word_first_3))\nprint(\"Last 2 letters: {}\".format(word_last_2))\nprint(\"Middle word: {}\".format(middle_word))",
+        "detail": "7-edges",
+        "documentation": {}
+    },
+    {
+        "label": "word_last_2",
+        "kind": 5,
+        "importPath": "7-edges",
+        "description": "7-edges",
+        "peekOfCode": "word_last_2 = word[-2:]\nmiddle_word = word[1:-1]\nprint(\"First 3 letters: {}\".format(word_first_3))\nprint(\"Last 2 letters: {}\".format(word_last_2))\nprint(\"Middle word: {}\".format(middle_word))",
+        "detail": "7-edges",
+        "documentation": {}
+    },
+    {
+        "label": "middle_word",
+        "kind": 5,
+        "importPath": "7-edges",
+        "description": "7-edges",
+        "peekOfCode": "middle_word = word[1:-1]\nprint(\"First 3 letters: {}\".format(word_first_3))\nprint(\"Last 2 letters: {}\".format(word_last_2))\nprint(\"Middle word: {}\".format(middle_word))",
+        "detail": "7-edges",
+        "documentation": {}
+    },
+    {
+        "label": "str",
+        "kind": 5,
+        "importPath": "8-concat_edges",
+        "description": "8-concat_edges",
+        "peekOfCode": "str = \"Python is an interpreted, interactive, object-oriented programming\\\n language that combines remarkable power with very clear syntax\"\nstr = str[39:67] + str[107:112] + str[:6]\nprint(str)",
+        "detail": "8-concat_edges",
+        "documentation": {}
+    },
+    {
+        "label": "str",
+        "kind": 5,
+        "importPath": "8-concat_edges",
+        "description": "8-concat_edges",
+        "peekOfCode": "str = str[39:67] + str[107:112] + str[:6]\nprint(str)",
+        "detail": "8-concat_edges",
+        "documentation": {}
+    }
+]
