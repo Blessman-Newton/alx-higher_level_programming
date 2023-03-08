@@ -1,2 +1,2 @@
-#!/usr/bin/python3
-print("ALX school")\n
+#!/usr/bin/python3\n
+print("ALX school")
