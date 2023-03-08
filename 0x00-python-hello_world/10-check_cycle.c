@@ -4,7 +4,7 @@
  * check_cycle - check for loop in LL
  * @list: head of linked list
  *
- * Description - checks for loops in LL
+ * Description - check for loops in LL
  * Return: 1 if cycled, 0 if not
  */
 
